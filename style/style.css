@@ -1,0 +1,55 @@
+body {
+	background-image: url(http://www.wincore.ru/uploads/posts/2015-09/1441883643_4k_walls_pack_wincore.ru-14_result.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+}
+form {
+
+text-align: center;
+}
+
+
+#panel {
+	margin: 0 auto;
+	padding: 0;
+	font: 75%/120% Arial, Helvetica, sans-serif;
+}
+a:focus {
+	outline: none;
+}
+
+#panel {
+	background: green;
+	height: 150px;
+	display: none;
+}
+
+.slide {
+	margin: 0;
+	padding: 0;
+	border-top: solid 4px #422410;
+	background: url(http://www.skyafar.com/bootstrap/flat-button-generator/Bootstrap-Button-Generator.png) no-repeat center top;
+}
+
+.btn-slide {
+	background: url(http://www.skyafar.com/bootstrap/flat-button-generator/Bootstrap-Button-Generator.png) no-repeat right 50px;
+	text-align: center;
+	width: 144px;
+	height: 31px;
+	padding: 10px 10px 0 0;
+	margin: 0 auto;
+	display: block;
+	font: bold 120%/100% Arial, Helvetica, sans-serif;
+	color: #fff;
+	text-decoration: none;
+}
+
+.active {
+	background-position: right 12px;
+}
+
+#img11 {
+	position: center;
+	
+}
